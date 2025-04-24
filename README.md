@@ -119,3 +119,6 @@ The chatbot interface will be available at `http://localhost:8501`
 3. The retrieved context is passed to the Gemini model along with the query
 4. The model generates a natural language response based on the context
 5. The response is displayed in the chat interface
+
+![image](https://github.com/user-attachments/assets/dee856a3-ab0b-4c08-964c-302cee6569f3)
+
