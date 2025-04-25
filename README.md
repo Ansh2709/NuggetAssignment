@@ -120,5 +120,6 @@ The chatbot interface will be available at `http://localhost:8501`
 4. The model generates a natural language response based on the context
 5. The response is displayed in the chat interface
 
-![image](https://github.com/user-attachments/assets/dee856a3-ab0b-4c08-964c-302cee6569f3)
+![Untitled diagram-2025-04-25-045544](https://github.com/user-attachments/assets/dff26941-53da-4360-9edc-dc4bfc9390e1)
+
 
